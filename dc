@@ -30,6 +30,7 @@
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧技"},
 {"url":"https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json","name":"真心"},
 {"url":"https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json","name":"短剧"},
+//{"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name":"短剧(备)"},
 {"url":"https://9877.kstore.space/AnotherD/api.json","name":"潇洒"},
 {"url":"https://clun.top/box.json","name":"库伦"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/X.json","name":"阿兰"},
@@ -52,7 +53,6 @@
 {"url":"https://tang.hz.cz/api/user?token=033ef99b","name":"唐三"},
 {"url":"https://ghfast.top/https://raw.githubusercontent.com/dxawi/0/main/0.json","name":"飘零"},
 {"url":"https://ztha.top/TVBox/thdjk.json","name":"挺好"},
-{"url":"http://74.120.175.78/JK/XYQTVBox/dj.json","name":"短剧"},
 {"url":"http://101.200.122.188/xiqu","name":"戏曲"},
 {"url":"https://ddzb.fun/dgmusic/api.json","name":"音乐"},
 {"url":"http://home.jundie.top:81/top98.json","name":"俊于"}
