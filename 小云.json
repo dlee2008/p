@@ -10,22 +10,19 @@
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
-            "jar": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
             "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
         }, 
         {
             "key": "Local",
             "name": "本地",
             "type": 3,
-            "api": "csp_Local",
-            "jar": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar"
+            "api": "csp_Local"
         },
         {
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
             "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
-            "jar": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -34,7 +31,6 @@
             "name": "快看",
             "type": 3,
             "api": "csp_Kuaikan",
-            "jar": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
