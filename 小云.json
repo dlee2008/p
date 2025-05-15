@@ -57,6 +57,7 @@
             "api": "csp_MQiTV",
             "ua": "okhttp",
             "ext": "https://59.125.210.231:4433",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "timeout": 30,
             "playerType": 1
         },
