@@ -1,5 +1,5 @@
     {
-        "spider": "https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+        "spider": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
         "wallpaper": "https://api.btstu.cn/sjbz/api.php",
         "sites": [
         {
@@ -56,7 +56,6 @@
             "api": "csp_MQiTV",
             "ua": "okhttp",
             "ext": "https://59.125.210.231:4433",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
             "timeout": 30,
             "playerType": 1
         },
