@@ -55,15 +55,17 @@
         {
             "name": "MQiTV",
             "api": "csp_MQiTV",
-            "ext": "https://59.125.210.231:4433",
             "ua": "okhttp",
+            "ext": "https://59.125.210.231:4433",
             "timeout": 30,
             "playerType": 1
         },
         {
             "name": "Jable",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/live/main/Jable.txt"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/live/main/Jable.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }   
       ]
 }
