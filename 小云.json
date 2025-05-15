@@ -4,7 +4,7 @@
         
     "sites": [
      {
-    "key": "csp_douban",
+    "key": "csp_Douban",
     "name": "豆瓣",
     "type": 3,
     "api": "csp_Douban",
