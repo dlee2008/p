@@ -124,33 +124,6 @@
             "quickSearch": 1
         },
                 {
-            "key": "暴风",
-            "name": "暴风",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "量子",
-            "name": "量子",
-            "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
-            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
-        },
-                {
-            "key": "酷狗",
-            "name": "酷狗",
-            "type": 3,
-            "api": "csp_Kugou",
-            "searchable": 1,
-            "changeable": 0
-        },
-                {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
