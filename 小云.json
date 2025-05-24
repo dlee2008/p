@@ -161,11 +161,18 @@
     "playerType": 1
     },
     {
-    "name": "Jable",
-    "type": 0,
-    "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/live/main/Jable.txt",
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
+    "name":"Jable",
+    "type":0,
+    "url":"https://ghfast.top/https://raw.githubusercontent.com/dlee2008/live/main/Jable.txt",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+            {
+    "name":"午夜",
+    "type":0,
+    "url":"https://ghfast.top/https://raw.githubusercontent.com/dlee2008/live/main/午夜.txt",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "秘密花园",
