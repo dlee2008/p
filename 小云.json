@@ -303,17 +303,9 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-            "name": "181818",
+            "name": "18+++",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/181818.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-            "name": "18+直播",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/live18.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -351,15 +343,7 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-            "name": "Jable嗅探",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/Jable嗅探.txt",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-            "name": "VIP福利",
+            "name": "VIP资源",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt",
             "ua": "okhttp/3.15",
@@ -375,7 +359,7 @@
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
-            "name": "18+",
+            "name": "18+福利",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18+.txt",
             "ua": "okhttp/3.15",
