@@ -165,8 +165,8 @@
     "type": 0,
     "url": "http://z8.myartsonline.com/11.txt",
     "ua": "okhttp/3.12.13.tmr",
-    "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
     "name": "秘密花园",
