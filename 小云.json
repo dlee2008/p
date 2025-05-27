@@ -3,7 +3,7 @@
     "wallpaper":"https://深色壁纸.xxooo.cf",
         
     "sites": [
-        {
+    {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
@@ -12,22 +12,52 @@
             "changeable": 1,
             "indexs": 1,
             "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
-        },
-     {
-    "key": "Local",
-    "name": "本地",
-    "type": 3,
-    "api": "csp_Local"
     },
-                {
+    {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {
+      "key": "天天",
+      "name": "天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+    },
+    {
+      "key": "saohuo",
+      "name": "骚火",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "playerType": "2",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },
+    {"key":"贱贱","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"},
+    {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"Auete","name":"奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},  
+    {
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
             "api": "https://json.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
-        },
-                {
+    },
+    {
             "key": "快看",
             "name": "快看",
             "type": 3,
@@ -36,8 +66,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1
-        },
-        {
+    },
+    {
             "key": "索尼",
             "name": "索尼",
             "type": 1,
@@ -79,8 +109,8 @@
             ],
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
+    },
+    {
             "key": "非凡",
             "name": "非凡",
             "type": 1,
@@ -121,16 +151,16 @@
             ],
             "searchable": 1,
             "quickSearch": 1
-        },
-                {
+    },
+    {
             "key": "暴风",
             "name": "暴风",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
-        },
-        {
+    },
+    {
             "key": "量子",
             "name": "量子",
             "type": 1,
@@ -138,8 +168,14 @@
             "playerType": 1,
             "searchable": 1,
             "changeable": 1
-        },
-                {
+    },
+    {
+    "key": "Local",
+    "name": "本地",
+    "type": 3,
+    "api": "csp_Local"
+    },
+    {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
@@ -147,7 +183,7 @@
             "changeable": 0,
             "timeout": 30,
             "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json"
-        }
+    }
     ],
            
     "lives": [
@@ -159,15 +195,7 @@
     "ext": "https://59.125.210.231:4433",
     "timeout": 30,
     "playerType": 1
-    },
-    {
-    "name": "肥羊",
-    "type": 0,
-    "url": "https://nptv.freetv.top/nptv.m3u",
-    "playerType": 1,
-    "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
-    "logo": "http://diyp5.112114.xyz/{name}.png"
-    },      
+    }，    
     {
     "name": "天命",
     "type": 0,
@@ -177,7 +205,7 @@
     "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-    "name": "秘密花园",
+    "name": "花园",
     "type": 0,
     "url": "http://pan.losfer.cn/down.php/67464e49393921ab24203d13141b0ba2.jpg",
     "playerType": 1,
@@ -192,7 +220,7 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
-    "name": "不再孤独",
+    "name": "孤独",
     "type": 0,
     "url": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/live/main/不再孤独.txt",
     "playerType": 1,
