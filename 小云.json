@@ -46,7 +46,9 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
     },
-    {"key":"贱贱","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"},
+    {"key":"贱贱","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1",
+     "api":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+     "ext":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"},
     {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"Auete","name":"奥特","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},  
     {
