@@ -4,44 +4,26 @@
         
     "sites": [
     {
-            "key": "豆瓣",
-            "name": "豆瓣",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0,
-            "changeable": 1,
-            "indexs": 1,
-            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
-    },
-    {"key":"文采",
-    "name":"文采",
-    "type":3,
-    "api":"csp_Jpys",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1},
-    {
-      "key": "天天",
-      "name": "天天",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar"
+    "key": "豆瓣",
+    "name": "豆瓣",
+    "type": 3,
+    "api": "csp_Douban",
+    "searchable": 0,
+    "changeable": 1,
+    "indexs": 1,
+    "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"
     },
     {
-      "key": "saohuo",
-      "name": "骚火",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "playerType": "2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt",
-      "api": "csp_XBPQ",
-      "ext": {
+    "key": "saohuo",
+    "name": "骚火",
+    "type": 3,
+    "searchable": 1,
+    "changeable": 0,
+    "quickSearch": 1,
+    "playerType": "2",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt",
+    "api": "csp_XBPQ",
+    "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
         "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
         "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
@@ -52,42 +34,44 @@
         "跳转播放链接": "<iframe*src=\"&&\"",
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
-    {"key":"贱贱","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1",
-     "api":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt",
-     "ext":"https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"},
-    {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt",
-    "searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"Auete","name":"奥特","type":3,"api":"csp_Auete",
-    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt",
-    "timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/"},  
-    {
-            "key": "黑木耳",
-            "name": "黑木耳",
-            "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
+          }
     },
     {
-            "key": "快看",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1
+    "key":"Auete",
+    "name":"奥特",
+    "type":3,
+    "api":"csp_Auete",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt",
+    "timeout":15,
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "ext":"https://auete.com/"
+    },  
+    {
+    "key": "黑木耳",
+    "name": "黑木耳",
+    "type": 1,
+    "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+    "searchable": 1,
+    "quickSearch": 1
     },
     {
-            "key": "索尼",
-            "name": "索尼",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-            "categories": [
+    "key": "快看",
+    "name": "快看",
+    "type": 3,
+    "api": "csp_Kuaikan",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "filterable": 1
+    },
+    {
+    "key": "索尼",
+    "name": "索尼",
+    "type": 1,
+    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+    "categories": [
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -122,18 +106,18 @@
                 "斯诺克",
                 "影视解说"
             ],
-            "searchable": 1,
-            "quickSearch": 1
+    "searchable": 1,
+    "quickSearch": 1
     },
     {
-            "key": "非凡",
-            "name": "非凡",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
+    "key": "非凡",
+    "name": "非凡",
+    "type": 1,
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+    "playerType": 1,
+    "searchable": 1,
+    "changeable": 1,
+    "categories": [
                 "国产动漫",
                 "日韩动漫",
                 "国产剧",
@@ -164,25 +148,25 @@
                 "港台动漫",
                 "海外动漫"
             ],
-            "searchable": 1,
-            "quickSearch": 1
+    "searchable": 1,
+    "quickSearch": 1
     },
     {
-            "key": "暴风",
-            "name": "暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
+    "key": "暴风",
+    "name": "暴风",
+    "type": 1,
+    "api": "https://bfzyapi.com/api.php/provide/vod",
+    "searchable": 1,
+    "changeable": 1
     },
     {
-            "key": "量子",
-            "name": "量子",
-            "type": 1,
-            "api": "http://cj.lziapi.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1
+    "key": "量子",
+    "name": "量子",
+    "type": 1,
+    "api": "http://cj.lziapi.com/api.php/provide/vod/",
+    "playerType": 1,
+    "searchable": 1,
+    "changeable": 1
     },
     {
     "key": "Local",
@@ -191,13 +175,13 @@
     "api": "csp_Local"
     },
     {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "changeable": 0,
-            "timeout": 30,
-            "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json"
+    "key": "push_agent",
+    "name": "推送",
+    "type": 3,
+    "api": "csp_Push",
+    "changeable": 0,
+    "timeout": 30,
+    "ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json"
     }
     ],
            
