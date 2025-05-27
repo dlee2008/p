@@ -161,7 +161,15 @@
     "playerType": 1
     },
     {
-    "name": "天命人",
+    "name": "肥羊",
+    "type": 0,
+    "url": "https://nptv.freetv.top/nptv.m3u",
+    "playerType": 1,
+    "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}",
+    "logo": "http://diyp5.112114.xyz/{name}.png"
+    },      
+    {
+    "name": "天命",
     "type": 0,
     "url": "http://z8.myartsonline.com/11.txt",
     "ua": "okhttp/3.12.13.tmr",
