@@ -455,6 +455,7 @@
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
+    {
     "name":"全球直播",
     "type": 0,
     "url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
