@@ -455,27 +455,6 @@
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-    "name":"欧洲1",
-    "url":"http://iptv11.com/5F909214E4DF0.m3u",
-    "ua":"zhanglaoniubi"
-    },
-    {
-    "name":"欧洲2",
-    "url":"http://satq.tv/iptv/5F909214E4DF0.m3u",
-    "ua":"zhanglaoniubi"
-    },
-    {
-    "name":"欧洲3",
-    "url":"http://pl.itvago.com/5F909214E4DF0.m3u",
-    "ua":"zhanglaoniubi"
-    },
-    {
-    "name":"欧洲4",
-    "url":"http://ua.iptv11.com/5F909214E4DF0.m3u",
-    "ua":"zhanglaoniubi"
-    },
-    {
     "name":"全球直播",
     "type": 0,
     "url": "http://pan.losfer.cn/down.php/7eecfe18cd82ce1f5ae915069f5c59bc.jpg",
