@@ -167,7 +167,7 @@
     "name": "MQiTV",
     "api": "csp_MQiTV",
     "ua": "okhttp",
-    "jar": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/p/main/fm.jar",   
+    "jar": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/p/main/fm.jar",
     "ext": "https://59.125.210.231:4433",
     "timeout": 30,
     "playerType": 1
