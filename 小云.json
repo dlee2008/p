@@ -173,14 +173,6 @@
     "playerType": 1
     },
     {
-    "name": "天命",
-    "type": 0,
-    "url": "http://z8.myartsonline.com/11.txt",
-    "ua": "okhttp/3.12.13.tmr",
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
     "name": "花园",
     "type": 0,
     "url": "http://pan.losfer.cn/down.php/78be39d9177b4c61b47f63cdeba37ec2.jpg",
@@ -196,7 +188,15 @@
     "logo":"https://epg.112114.xyz/logo/{name}.png"
     },
     {
-    "name":"长老",
+    "name": "天命",
+    "type": 0,
+    "url": "http://z8.myartsonline.com/11.txt",
+    "ua": "okhttp/3.12.13.tmr",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+    "name":"老张",
     "url":"http://zotv.zone.id/8/i/1748419431.txt",
     "ua":"zhanglao18+"
     },
