@@ -173,6 +173,15 @@
     "playerType": 1
     },
     {
+    "name": "MQiTV(备)",
+    "api": "csp_MQiTV",
+    "ua": "okhttp",
+    "jar": "https://ghfast.top/https://raw.githubusercontent.com/dlee2008/p/main/fm.jar",
+    "ext": "http://61.63.19.241:1888",
+    "timeout": 30,
+    "playerType": 1
+    },
+    {
     "name": "花园",
     "type": 0,
     "url": "https://gitee.com/sji820/des/raw/master/0.jpg",
